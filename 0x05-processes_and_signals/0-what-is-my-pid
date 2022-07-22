@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Finds and displays of its own pid
+echo "$$"

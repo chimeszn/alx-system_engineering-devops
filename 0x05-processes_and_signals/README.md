@@ -1,0 +1,3 @@
+# 0x05-processes_and_signals #
+
+This directory contains the files for the project 0x05-processes_and_signals from ALX Holberton Software Engineering School
